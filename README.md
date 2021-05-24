@@ -5,9 +5,11 @@ Requirements:
   3.MongoDB -4.4.x
 Steps:
   1.Download the react-spring-boot-mongodb repository
-  2.cd backend
+  2.Open terminal
+    cd backend
     mvn spring-boot:run
-  3.cd frontend
+  3.open another terminal
+    cd frontend
     npm install 
     npm start
     
